@@ -5,6 +5,7 @@ vite.config.ts.*
 *.tar.gz
 design_guidelines.md
 readme.md
+replit.md
 
 # Environment variables
 .env
