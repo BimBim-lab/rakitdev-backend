@@ -6,6 +6,10 @@ vite.config.ts.*
 design_guidelines.md
 readme.md
 replit.md
+API_DOCUMENTATION.md
+DEPLOYMENT_CHECKLIST.md
+QUICK_REFERENCE.md
+README.md
 
 # Environment variables
 .env
